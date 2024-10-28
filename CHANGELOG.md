@@ -7,7 +7,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-- Nothing yet!
+### Added
+
+- _Upgrade (experimental)_: Bump `prettier-plugin-tailwindcss` to latest version during upgrade ([#14808](https://github.com/tailwindlabs/tailwindcss/pull/14808))
 
 ## [4.0.0-alpha.30] - 2024-10-24
 
